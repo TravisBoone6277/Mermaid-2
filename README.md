@@ -1,3 +1,5 @@
+``` mermaid
+```
 journey
     title My working day
     section Go to work
